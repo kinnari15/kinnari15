@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kinnari Bhalerao
-- 👀 I’m interested in image processing, front-end web dev and antenna designing.
+- 👀 I’m interested in image processing, front-end web dev.
 - 🌱 I’m currently exploring OpenCV and trying to build small projects. 
 - 📫 How to reach me -> https://www.linkedin.com/in/kinnari-bhalerao-60a31a192/
 
